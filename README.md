@@ -1,5 +1,5 @@
 # Clone
-```bash
+```console
 user@name:~$ git pull
 ```
 
