@@ -1,4 +1,4 @@
-# Clone
+# Download main.c
 ```console
-git clone https://github.com/MarkusRaudbergetj/htl_weiz_robotics_linefollower.git 
+wget https://raw.githubusercontent.com/MarkusRaudbergetj/htl_weiz_robotics_linefollower/refs/heads/main/src/main.c
 ```
